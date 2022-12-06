@@ -1,12 +1,16 @@
 
 Python project
 
-Project for a domotic assistant with remote devices and Natural Processing Language vocal command and response
+(*running on linux/ubuntu)
+Project for a domotic assistant with remote devices, Natural Processing Language vocal command and response, and a tkinter GUI
 
-Raspberry pi gpio connected alarm system with AI vocal reconnaissance, vocal device activation and vocal confirmation of command.
+Raspberry pi gpio connected domotic system (with alarm system) with AI vocal reconnaissance, vocal devices activation and vocal confirmation of command.
 Activity and command logged into mongodb database
 Device activated and command through mqtt network
 Connected with locally actualized meteo via open weather map
+
+
+<img width="149" alt="image" src="https://user-images.githubusercontent.com/116329812/206030143-28ef334b-b17a-4d47-9434-b2c6c6b10bad.png">
 
 
 module:
@@ -25,8 +29,6 @@ requests
 os
 
 
-pour demarrer le projet demarrer les documents project2_mainframe2 dans le terminal
 
-le document project2_mongoconsole est un fichier de classe\objet pour les fonctionalite associer a mongoDB
-
+TO START RUN project_mainframe2 IN THE TERMINAL
 
