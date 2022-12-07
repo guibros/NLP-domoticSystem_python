@@ -1,4 +1,3 @@
-
 # Python project
 
 (*running on linux/ubuntu)
