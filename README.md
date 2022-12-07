@@ -1,5 +1,5 @@
 
-Python project
+# Python project
 
 (*running on linux/ubuntu)
 Project for a domotic assistant with remote devices, Natural Processing Language vocal command and response, and a tkinter GUI
